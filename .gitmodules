@@ -10,3 +10,6 @@
 [submodule "variables"]
 	path = variables
 	url = https://github.com/Mohak-CODING-HEAVEN/variables-Rust
+[submodule "datatypes"]
+	path = datatypes
+	url = https://github.com/Mohak-CODING-HEAVEN/datatypes-Rust
