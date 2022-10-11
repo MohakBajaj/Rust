@@ -7,3 +7,6 @@
 [submodule "guessing_game"]
 	path = guessing_game
 	url = https://github.com/Mohak-CODING-HEAVEN/guessing_game-Rust
+[submodule "variables"]
+	path = variables
+	url = https://github.com/Mohak-CODING-HEAVEN/variables-Rust
