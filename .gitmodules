@@ -1,0 +1,9 @@
+[submodule "Hello World"]
+	path = Hello World
+	url = https://github.com/Mohak-CODING-HEAVEN/Hello-World-Rust
+[submodule "Hello_Cargo"]
+	path = Hello_Cargo
+	url = https://github.com/Mohak-CODING-HEAVEN/Hello_Cargo-Rust
+[submodule "guessing_game"]
+	path = guessing_game
+	url = https://github.com/Mohak-CODING-HEAVEN/guessing_game-Rust
